@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Shopping-cart/static/css/main.83e6e04a.chunk.css",
+    "main.js": "/Shopping-cart/static/js/main.7bf9bf1b.chunk.js",
+    "main.js.map": "/Shopping-cart/static/js/main.7bf9bf1b.chunk.js.map",
+    "runtime-main.js": "/Shopping-cart/static/js/runtime-main.3f410c5e.js",
+    "runtime-main.js.map": "/Shopping-cart/static/js/runtime-main.3f410c5e.js.map",
+    "static/js/2.6a237a03.chunk.js": "/Shopping-cart/static/js/2.6a237a03.chunk.js",
+    "static/js/2.6a237a03.chunk.js.map": "/Shopping-cart/static/js/2.6a237a03.chunk.js.map",
+    "index.html": "/Shopping-cart/index.html",
+    "static/css/main.83e6e04a.chunk.css.map": "/Shopping-cart/static/css/main.83e6e04a.chunk.css.map",
+    "static/js/2.6a237a03.chunk.js.LICENSE.txt": "/Shopping-cart/static/js/2.6a237a03.chunk.js.LICENSE.txt",
+    "static/media/instagram-icon.37c0a4e8.svg": "/Shopping-cart/static/media/instagram-icon.37c0a4e8.svg",
+    "static/media/toggle-button.css": "/Shopping-cart/static/media/plus-icon-rotate.ae7176fa.png",
+    "static/media/addItemForm.css": "/Shopping-cart/static/media/search-icon.06aaae4d.png",
+    "static/media/you-tube-icon.8561aec5.svg": "/Shopping-cart/static/media/you-tube-icon.8561aec5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f410c5e.js",
+    "static/js/2.6a237a03.chunk.js",
+    "static/css/main.83e6e04a.chunk.css",
+    "static/js/main.7bf9bf1b.chunk.js"
+  ]
+}
